@@ -5,7 +5,7 @@
 cargo build
 ```
 
-### run server
+### Run server
 ```
 cargo run
 ```
@@ -15,12 +15,12 @@ cargo run
 cargo build --release
 ```
 
-### check compile result
+### Check compile result
 ```
 cargo check
 ```
 
-### update dependency
+### Update dependency
 ```
 cargo update
 ```
