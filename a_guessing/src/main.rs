@@ -1,7 +1,7 @@
 // 默认会导入prelude(序曲)包下的
-use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
+use std::io;
 
 fn main() {
     println!("猜数");
@@ -55,4 +55,3 @@ fn main() {
 //     let x: Result<u32, &str> = Err("emergency failure");
 //     x.expect("测试expect"); // panics with `Testing expect: emergency failure`
 // }
-
